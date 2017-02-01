@@ -1,0 +1,56 @@
+*, html{
+	margin: 0px;
+	padding: 0px;
+}
+h2{
+	color: #fff;
+	font-family: helvetica;
+	text-align: center;
+}
+#home {
+	background: url(../img/b95.jpg) 50% 0 fixed;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1920px;
+	position: relative;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#seccion2 {
+	background: url(../img/b94.jpg) 50% 0 fixed;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1920px;
+	position: relative;
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+#section3{
+	background: url(../img/b93.jpg) 50% 0 fixed;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1920px;
+	position: relative;
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+article{
+	padding: 100px;
+}
+.geekhome{
+	display: block;
+	margin: 0px auto;
+	max-width: 100%;
+}
